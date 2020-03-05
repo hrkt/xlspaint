@@ -15,7 +15,7 @@ A spreadsheet-painting tool, "Hoganshi" renderer.
 
 ## run
 
-download latest release, or build it by yourself, then 
+download latest release(xlspaint.exe & template_256x256.xlsx), or build it by yourself, then 
 
 ```console
 xlspaint [your-favorite-image-file]
